@@ -1,3 +1,0 @@
-/home/oscar_england/Documents/Programming/Graphics_programs/learning_opengl/build-asan/CMakeFiles/learnopengl.dir
-/home/oscar_england/Documents/Programming/Graphics_programs/learning_opengl/build-asan/CMakeFiles/edit_cache.dir
-/home/oscar_england/Documents/Programming/Graphics_programs/learning_opengl/build-asan/CMakeFiles/rebuild_cache.dir
